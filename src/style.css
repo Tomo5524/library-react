@@ -1,0 +1,12 @@
+body {
+  /* background: -webkit-linear-gradient(1deg, #cc2b5e 44%, #753a88 125%);
+  background-repeat: -moz-linear-gradient(1deg, #cc2b5e 44%, #753a88 125%);
+  background: -ms-linear-gradient(1deg, #cc2b5e 44%, #753a88 125%); */
+  background-image: url(components/images/bookcase-1280x720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.radius {
+  border-radius: 10px;
+}
