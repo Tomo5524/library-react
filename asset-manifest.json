@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/library-react/static/css/main.09e36587.chunk.css",
+    "main.js": "/library-react/static/js/main.bae7c812.chunk.js",
+    "main.js.map": "/library-react/static/js/main.bae7c812.chunk.js.map",
+    "runtime-main.js": "/library-react/static/js/runtime-main.bc126f7f.js",
+    "runtime-main.js.map": "/library-react/static/js/runtime-main.bc126f7f.js.map",
+    "static/css/2.6c7616e4.chunk.css": "/library-react/static/css/2.6c7616e4.chunk.css",
+    "static/js/2.c8ab493e.chunk.js": "/library-react/static/js/2.c8ab493e.chunk.js",
+    "static/js/2.c8ab493e.chunk.js.map": "/library-react/static/js/2.c8ab493e.chunk.js.map",
+    "index.html": "/library-react/index.html",
+    "precache-manifest.cf5244846aac00f26cb90730b10d5f76.js": "/library-react/precache-manifest.cf5244846aac00f26cb90730b10d5f76.js",
+    "service-worker.js": "/library-react/service-worker.js",
+    "static/css/2.6c7616e4.chunk.css.map": "/library-react/static/css/2.6c7616e4.chunk.css.map",
+    "static/css/main.09e36587.chunk.css.map": "/library-react/static/css/main.09e36587.chunk.css.map",
+    "static/js/2.c8ab493e.chunk.js.LICENSE.txt": "/library-react/static/js/2.c8ab493e.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/library-react/static/media/bookcase-1280x720.ce36abd0.jpg",
+    "static/media/font-awesome.min.css": "/library-react/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc126f7f.js",
+    "static/css/2.6c7616e4.chunk.css",
+    "static/js/2.c8ab493e.chunk.js",
+    "static/css/main.09e36587.chunk.css",
+    "static/js/main.bae7c812.chunk.js"
+  ]
+}
