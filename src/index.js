@@ -308,3 +308,9 @@ ReactDOM.render(<App />, document.getElementById("root"));
 //     console.log(this.state, "this.state after reset /////");
 //     // state still remains in above line but state has been changed
 //   }
+
+// fires only the first time
+// componenetDidMount(){
+//   const savedLibrary = JSON.parse(localStorage.getItem("library"));
+//   this.setState({lib : _.cloneDeep(savedLibrary) || []})
+// }
